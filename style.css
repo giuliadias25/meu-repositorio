@@ -33,3 +33,29 @@ video{
   font-size:13px;
   color:#e0dfdf;
 }
+
+header {
+   background-color: #2a2c39;
+   color: #bdc3c7;
+   font-family:Arial,sans-sefif;
+   text-aligh: center;
+   height: 100px;
+   margin: 0;
+   border: none;
+   width: 100%
+   display: flex;
+   align-items:center;
+   justify-content:center;
+}
+
+html,body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing:border-box;
+
+}
